@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Pathika",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "425327",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Bhusaval Division",
+    "major_offices": "Kurha kakoda S.O, Charthana B.O, Nimkhedi BK B.O",
+    "phone_number": "+91 257 222 8333",
+    "website": "http://21.251.6.168/",
+    "rating": 3.6,
+    "reviews_count": 250,
+    "address": "No -250, Station Rd, beside Shree Datta Dairy, Navi Peth, Jaikisan Wadi, Jalgaon, Maharashtra 425001",
+    "area": "Navi Peth, Jaikisan Wadi",
+    "latitude": 21.0170666,
+    "longitude": 75.56398899999999,
+    "place_id": "ChIJR77ct6IP2TsRG-IMyRTvvdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR77ct6IP2TsRG-IMyRTvvdM",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:06:38"
+  }
+]
