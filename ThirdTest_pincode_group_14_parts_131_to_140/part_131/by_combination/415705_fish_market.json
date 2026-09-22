@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "GSN Fish Service",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "415705",
+    "circle": "Maharashtra Circle",
+    "region": "Goa-Panaji Region",
+    "division": "RATNAGIRI DIVISION",
+    "major_offices": "Adur S.O (Ratnagiri)",
+    "phone_number": "+91 70836 35172",
+    "website": "https://gsn-fish-service.vercel.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adoor, Maharashtra 415705",
+    "area": "415705",
+    "latitude": 17.411139,
+    "longitude": 73.2079634,
+    "place_id": "ChIJK94Qenn36TsRC4mLq8to2E0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK94Qenn36TsRC4mLq8to2E0",
+    "part_id": "part_131",
+    "crawled_at": "2026-09-22 06:59:06"
+  }
+]
