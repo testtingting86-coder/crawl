@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Vijay Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "425432",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Dhule Division",
+    "major_offices": "Mhasawad S.O (Nandurbar), Chikhali BK B.O, Fattepur B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "at Vijay provision, Dongargaon Rd, Kuber Nagar, Shivsundaram nagar, Ganesh Nagar, Shahade r, Maharashtra 425409",
+    "area": "Kuber Nagar, Shivsundaram nagar, Ganesh Nagar",
+    "latitude": 21.5485546,
+    "longitude": 74.4854453,
+    "place_id": "ChIJXQO-0ltt3zsRIOWOCxy7ai4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQO-0ltt3zsRIOWOCxy7ai4",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:22:44"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "A one Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "425432",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Dhule Division",
+    "major_offices": "Mhasawad S.O (Nandurbar), Chikhali BK B.O, Fattepur B.O",
+    "phone_number": "+91 83808 68313",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A One Shop, Mhasawad, Maharashtra 425432",
+    "area": "425432",
+    "latitude": 21.645958699999998,
+    "longitude": 74.4768618,
+    "place_id": "ChIJx0sNP_lv3zsRiMleXw17I64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0sNP_lv3zsRiMleXw17I64",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:22:30"
+  }
+]
