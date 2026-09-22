@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Infiniti Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Bowling alley, Cell phone store, Clothing store, Food court, Jewelry store, Restaurant, Shoe store, Showroom, Toy store",
+    "pincode": "416811",
+    "circle": "Maharashtra Circle",
+    "region": "Goa-Panaji Region",
+    "division": "SINDHUDURG DIVISION",
+    "major_offices": "Phanasgaon S.O, Burambavade B.O, Mahalunge B.O",
+    "phone_number": "+91 22 4234 0000",
+    "website": "https://www.infinitimall.com/",
+    "rating": 4.5,
+    "reviews_count": 79445,
+    "address": "New Link Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Mindspace, Malad West",
+    "latitude": 19.184753,
+    "longitude": 72.8341927,
+    "place_id": "ChIJK63rBu625zsRfWUzxDWCKJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK63rBu625zsRfWUzxDWCKJw",
+    "part_id": "part_136",
+    "crawled_at": "2026-09-22 06:03:10"
+  }
+]
