@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "422620",
+    "circle": "Maharashtra Circle",
+    "region": "Pune Region",
+    "division": "Shrirampur Division",
+    "major_offices": "Ghargaon S.O, Aklapur B.O, Dolasane B.O",
+    "phone_number": "+91 90121 70480",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "315, Vaiduwadi, JJC Colony, Ramtekadi, Hadapsar, Pune, Maharashtra 411013",
+    "area": "Vaiduwadi, JJC Colony, Ramtekadi, Hadapsar",
+    "latitude": 18.5044211,
+    "longitude": 73.9189245,
+    "place_id": "ChIJmaICG1TBwjsRzTNMnhIX3L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaICG1TBwjsRzTNMnhIX3L8",
+    "part_id": "part_137",
+    "crawled_at": "2026-09-22 06:29:20"
+  }
+]

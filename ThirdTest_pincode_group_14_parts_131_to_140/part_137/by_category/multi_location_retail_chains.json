@@ -1174,5 +1174,29 @@
     "part_id": "part_137",
     "crawled_at": "2026-09-22 06:24:59",
     "s_no": 74102
+  },
+  {
+    "business_name": "All In One Mini Mall",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "422605",
+    "circle": "Maharashtra Circle",
+    "region": "Pune Region",
+    "division": "Shrirampur Division",
+    "major_offices": "Sangamner S.O, Ambhore B.O, Chandanapuri B.O",
+    "phone_number": "+91 79870 36697",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "16/19, near Rural Hospital, Sathe Nagar, Ghulewadi, Sangamner, Maharashtra 422608",
+    "area": "Sathe Nagar",
+    "latitude": 19.600363599999998,
+    "longitude": 74.19592039999999,
+    "place_id": "ChIJ3Wsct_AB3TsR-GYXaIyUBtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Wsct_AB3TsR-GYXaIyUBtQ",
+    "part_id": "part_137",
+    "crawled_at": "2026-09-22 06:26:51",
+    "s_no": 77626
   }
 ]
