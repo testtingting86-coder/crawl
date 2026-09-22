@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Gokul Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Chinese restaurant, Dessert shop, Fast food restaurant, Food court, Ice cream shop, South Indian restaurant",
+    "pincode": "416316",
+    "circle": "Maharashtra Circle",
+    "region": "Goa-Panaji Region",
+    "division": "SANGLI DIVISION",
+    "major_offices": "Ankalkhop S.O",
+    "phone_number": "+91 836 233 7757",
+    "website": "http://www.gokulrestaurant.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gokul Rd, opposite New Bus Stand, Industrial Estate, Hubballi, Karnataka 580030",
+    "area": "Industrial Estate",
+    "latitude": 15.351022899999998,
+    "longitude": 75.1172702,
+    "place_id": "ChIJN0RBdCPXuDsRfUxBG_roGPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0RBdCPXuDsRfUxBG_roGPI",
+    "part_id": "part_134",
+    "crawled_at": "2026-09-22 06:04:37"
+  }
+]
