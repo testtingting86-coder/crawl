@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Big Mart",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "421312",
+    "circle": "Maharashtra Circle",
+    "region": "Navi Mumbai Region",
+    "division": "Thane Division",
+    "major_offices": "Kudus S.O, Chamble B.O, Khupri B.O",
+    "phone_number": "+91 80108 30306",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "F39J+FJM, Ambadi Naka, Ambadi, Maharashtra 421302",
+    "area": "Ambadi Naka",
+    "latitude": 19.4687008,
+    "longitude": 73.0815427,
+    "place_id": "ChIJO_RkHuWh5zsRx522n3JMxwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_RkHuWh5zsRx522n3JMxwY",
+    "part_id": "part_136",
+    "crawled_at": "2026-09-22 06:15:12"
+  }
+]

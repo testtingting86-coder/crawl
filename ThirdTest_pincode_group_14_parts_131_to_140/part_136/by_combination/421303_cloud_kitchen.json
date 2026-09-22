@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "421303",
+    "circle": "Maharashtra Circle",
+    "region": "Navi Mumbai Region",
+    "division": "Palghar Division",
+    "major_offices": "Wada S.O, Abitghar B.O, Alonde B.O",
+    "phone_number": "+91 89762 14792",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot - 12/13, Rose Mary villa, Tonny Compound, Sahar Village, Andheri East, Mumbai, Maharashtra 400099",
+    "area": "Sahar Village, Andheri East",
+    "latitude": 19.1010912,
+    "longitude": 72.8659411,
+    "place_id": "ChIJJdrXqSbJ5zsR3lsDEm8ukKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdrXqSbJ5zsR3lsDEm8ukKg",
+    "part_id": "part_136",
+    "crawled_at": "2026-09-22 06:11:40"
+  }
+]

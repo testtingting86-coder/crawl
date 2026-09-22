@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "AB Client Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business administration service",
+    "all_categories": "Business administration service, Service establishment",
+    "pincode": "421305",
+    "circle": "Maharashtra Circle",
+    "region": "Navi Mumbai Region",
+    "division": "Thane Division",
+    "major_offices": "Vidyashram S.O",
+    "phone_number": "07778 031146",
+    "website": "https://abclientsolutions.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AB Client Solutions, 421305, India",
+    "area": "421305",
+    "latitude": 51.1172726,
+    "longitude": 0.5456238999999999,
+    "place_id": "ChIJzcEMB4VJ30cRZAGbflqqZnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcEMB4VJ30cRZAGbflqqZnc",
+    "part_id": "part_136",
+    "crawled_at": "2026-09-22 06:12:46"
+  }
+]
