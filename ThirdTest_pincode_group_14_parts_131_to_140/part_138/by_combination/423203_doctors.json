@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dr Farhan",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "423203",
+    "circle": "Maharashtra Circle",
+    "region": "Navi Mumbai Region",
+    "division": "Malegaon Division",
+    "major_offices": "Malegaon H.O, Malegaon City S.O, Malegaon Nayapura Ward S.O",
+    "phone_number": "+91 92263 52922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HG2Q+22H, Mohammad Ali Rd, Sardar Nagar, Nayapura, Malegaon, Maharashtra 423203",
+    "area": "Sardar Nagar, Nayapura",
+    "latitude": 20.5500549,
+    "longitude": 74.53759409999999,
+    "place_id": "ChIJL2sFKLGZ3jsRdNaDidtUjH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2sFKLGZ3jsRdNaDidtUjH8",
+    "part_id": "part_138",
+    "crawled_at": "2026-09-22 06:09:30"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Geeta Sales Corporation",
+    "search_category": "Departmental Store",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Cement Supplier",
+    "pincode": "423201",
+    "circle": "Maharashtra Circle",
+    "region": "Navi Mumbai Region",
+    "division": "Malegaon Division",
+    "major_offices": "Dabhadi S.O, Aghar BK B.O, Dhavaleshwar B.O",
+    "phone_number": "+91 93267 88530",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vinod OIl Mill Compound, Soygaon, Malegaon, Maharashtra 423203",
+    "area": "Soygaon",
+    "latitude": 20.5558683,
+    "longitude": 74.5174748,
+    "place_id": "ChIJr28UXOuZ3jsRjChfjqzJWr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr28UXOuZ3jsRjChfjqzJWr8",
+    "part_id": "part_138",
+    "crawled_at": "2026-09-22 06:08:06"
+  }
+]

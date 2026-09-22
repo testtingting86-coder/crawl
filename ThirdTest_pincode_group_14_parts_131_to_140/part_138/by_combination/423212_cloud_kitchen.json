@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "423212",
+    "circle": "Maharashtra Circle",
+    "region": "Navi Mumbai Region",
+    "division": "Malegaon Division",
+    "major_offices": "Nimgaon S.O, Chandanpuri B.O, Khayde B.O",
+    "phone_number": "+91 87673 82584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Om nagar trimurti soc room 10 virar road, Nagindas Rd, Nalasopara East, Maharashtra 401209",
+    "area": "Nala Sopara, Oswal Nagari, Nalasopara East",
+    "latitude": 19.431714,
+    "longitude": 72.822284,
+    "place_id": "ChIJ1WiuCYSp5zsR2zRwC02jte8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WiuCYSp5zsR2zRwC02jte8",
+    "part_id": "part_138",
+    "crawled_at": "2026-09-22 06:12:36"
+  }
+]
