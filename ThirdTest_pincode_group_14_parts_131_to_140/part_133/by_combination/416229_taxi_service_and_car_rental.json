@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dev Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "416229",
+    "circle": "Maharashtra Circle",
+    "region": "Goa-Panaji Region",
+    "division": "Kolhapur Division",
+    "major_offices": "Ambewadi S.O (Kolhapur), Bhuye B.O, Chikhali B.O",
+    "phone_number": "+91 88885 75730",
+    "website": "https://www.kolhapurcabservice.com/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Bus Route, 6th Ln, near Canara Bank, Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur, Maharashtra 416008",
+    "area": "Poorvarang, Mahalaxminagar, Rajarampuri",
+    "latitude": 16.695190099999998,
+    "longitude": 74.2442016,
+    "place_id": "ChIJcbIxkBsBwTsRlgRIwB0Ftf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbIxkBsBwTsRlgRIwB0Ftf8",
+    "part_id": "part_133",
+    "crawled_at": "2026-09-22 06:23:03"
+  }
+]

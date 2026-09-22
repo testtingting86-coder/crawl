@@ -142,5 +142,29 @@
     "part_id": "part_133",
     "crawled_at": "2026-09-22 06:08:43",
     "s_no": 21893
+  },
+  {
+    "business_name": "Spa Design Consultants Pvt. Ltd.",
+    "search_category": "Spa Consultants",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "416231",
+    "circle": "Maharashtra Circle",
+    "region": "Goa-Panaji Region",
+    "division": "Kolhapur Division",
+    "major_offices": "Dudhganganagar S.O, Panori B.O",
+    "phone_number": "+91 98114 02204",
+    "website": "http://spadesign.in/",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "E33, Block E, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Block E, Noida Sector 3",
+    "latitude": 28.58176,
+    "longitude": 77.31891999999999,
+    "place_id": "ChIJlV1Jj1nkDDkRqgtPmIyeJmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlV1Jj1nkDDkRqgtPmIyeJmQ",
+    "part_id": "part_133",
+    "crawled_at": "2026-09-22 06:24:29",
+    "s_no": 40002
   }
 ]
