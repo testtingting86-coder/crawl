@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Shree Samarth Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "425412",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Dhule Division",
+    "major_offices": "Nandurbar S.O, Arditara B.O, Ashte B.O",
+    "phone_number": "+91 80073 44766",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, DC Complex, Sonar Galli, Viral Vihar, Nandurbar, Maharashtra 425412",
+    "area": "Viral Vihar",
+    "latitude": 21.362133999999998,
+    "longitude": 74.2381661,
+    "place_id": "ChIJP42RFvYJ3zsRknX7YDlMuT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP42RFvYJ3zsRknX7YDlMuT8",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:13:17"
+  }
+]

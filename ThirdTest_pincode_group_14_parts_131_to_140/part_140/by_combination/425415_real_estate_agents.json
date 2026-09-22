@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Super house",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "425415",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Dhule Division",
+    "major_offices": "Akkalkuwa S.O, Ankushvihir B.O, Jamane B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H23F+5MW, Makranifali, Maharashtra 425415",
+    "area": "425415",
+    "latitude": 21.5529993,
+    "longitude": 74.0242169,
+    "place_id": "ChIJ7QBmHACR3zsRC3hVInpTfTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QBmHACR3zsRC3hVInpTfTs",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:15:16"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Shop No 01",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "425420",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Jalgaon Division",
+    "major_offices": "Amalgaon S.O, Dodhwad B.O, Gandhali B.O",
+    "phone_number": "+91 84215 17207",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No15, Rod, Gadkhamb, Maharashtra 425401",
+    "area": "425420",
+    "latitude": 21.0811137,
+    "longitude": 75.1379164,
+    "place_id": "ChIJi3-Wnkgv2TsRYvSNQV02SyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3-Wnkgv2TsRYvSNQV02SyA",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:17:53"
+  }
+]

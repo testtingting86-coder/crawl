@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Belgian Waffle Co.",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Dessert restaurant",
+    "all_categories": "Dessert restaurant, Cafe, Cake shop, Family restaurant, Ice cream shop",
+    "pincode": "425408",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Dhule Division",
+    "major_offices": "Dondaicha S.O, Aichale B.O, Bamhane B.O",
+    "phone_number": "+91 92095 38163",
+    "website": "https://thebelgianwaffle.co/",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Shop no 3, Pandit leela palace, Municipal Colony, Gartad, Deopur, Dhule, Maharashtra 424002",
+    "area": "Municipal Colony, Gartad, Deopur",
+    "latitude": 20.914945799999998,
+    "longitude": 74.771704,
+    "place_id": "ChIJOZWWIQDF3jsROs3p_KweL28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZWWIQDF3jsROs3p_KweL28",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:10:59"
+  }
+]

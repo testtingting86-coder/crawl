@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Foodie'z",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant, Ice cream shop, Panipuri shop, Pizza restaurant, Punjabi restaurant",
+    "pincode": "425417",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Dhule Division",
+    "major_offices": "Chinchpada S.O, Anjane B.O, Bandhare B.O",
+    "phone_number": "+91 95954 02900",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "71/2/B/57, College Road, opp. Vanita vidyalay, beside maharastra Bank, Navapur, Maharashtra 425418",
+    "area": "425417",
+    "latitude": 21.1636862,
+    "longitude": 73.79959199999999,
+    "place_id": "ChIJFdu_JhXJ3zsRzp1ie32t4PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdu_JhXJ3zsRzp1ie32t4PI",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:16:01"
+  }
+]

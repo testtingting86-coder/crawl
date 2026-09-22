@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "PYC Fitness Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Personal trainer",
+    "all_categories": "Personal trainer, Fitness center, Yoga studio",
+    "pincode": "425417",
+    "circle": "Maharashtra Circle",
+    "region": "Aurangabad Region",
+    "division": "Dhule Division",
+    "major_offices": "Chinchpada S.O, Anjane B.O, Bandhare B.O",
+    "phone_number": "+91 98237 04440",
+    "website": "https://pycfitstudio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Office 412A, gera imperium alpha, Gera's, Grant Rd, Rajaram Patil Nagar, Vitthal Nagar, Kharadi, Pune, Maharashtra 411014",
+    "area": "Rajaram Patil Nagar, Vitthal Nagar, Kharadi",
+    "latitude": 18.5566584,
+    "longitude": 73.9551701,
+    "place_id": "ChIJBdLktR7BwjsRE9nWQZuRhDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdLktR7BwjsRE9nWQZuRhDc",
+    "part_id": "part_140",
+    "crawled_at": "2026-09-22 06:16:09"
+  }
+]
