@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Jay Traders",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "421202",
+    "circle": "Maharashtra Circle",
+    "region": "Navi Mumbai Region",
+    "division": "Thane Division",
+    "major_offices": "Vishnunagar S.O",
+    "phone_number": "+91 83696 95956",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Ghanshyam, 9, Madhuban Apartment, Ghanshyam Gupte Road, Dombivli, Ghanshyam Gupte Road, Kalyan, Maharashtra 421202",
+    "area": "Dombivli, Vishnu Nagar, Dombivli West",
+    "latitude": 19.2214933,
+    "longitude": 73.085382,
+    "place_id": "ChIJZ98plh--5zsRBlbc8JsFQsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ98plh--5zsRBlbc8JsFQsQ",
+    "part_id": "part_136",
+    "crawled_at": "2026-09-22 06:08:50"
+  }
+]
